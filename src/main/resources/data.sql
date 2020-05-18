@@ -1,0 +1,1 @@
+INSERT INTO VISITEUR VALUES(1, 'Babacar', 'Diagne');
